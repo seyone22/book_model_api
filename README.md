@@ -49,13 +49,15 @@ Feature extraction is done using multi label binarization
 
 # Next steps
 
-1. Create a Collaborative filtering model using data gathered
+- [x] Create Content-Based Filtering Model
+
+- [ ] Create a Collaborative filtering model using data gathered
 from the user data in the goodbooks-10k dataset, our own
 generated data, and data from the Sri Lankan National Bibliography.
 
-2. Combine the Collaborative Filtering model and the Content-
+- [ ] Combine the Collaborative Filtering model and the Content-
 Based filtering model, to create a hybrid recommendation
 model.
 
-3. Improve the model using Matrix Factorization and Neural Net
+- [ ] Improve the model using Matrix Factorization and Neural Net
 techniques.
