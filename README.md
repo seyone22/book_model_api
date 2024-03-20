@@ -23,3 +23,9 @@ title. The names must be from the dataset goodbooks-10k.
 Working on extending it to a custom dataset, and running
 a check to see if the name is within the database before
 running the recommender.
+
+# Dependencies
+
+Please check ``requirements.txt`` for a full list of
+dependencies. Of course, you need ``Python 3.11`` to run
+the server. I tested on ``Python 3.11.8``
